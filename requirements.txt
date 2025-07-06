@@ -1,0 +1,7 @@
+pandas
+numpy
+geopandas
+osmnx
+matplotlib
+scikit-learn
+networkx
