@@ -1,3 +1,6 @@
 # Jupyter checkpoints
 .ipynb_checkpoints/
+# Large files
+data/raw/delhi_graph.graphml
+notebooks/cache/
 
